@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
+
+<!--🕵️‍ -->
+
+🔍 Always curious and building things, available to help and learn together
+
+🎲 Currently learning and working with Data Science
+
+👯 Core team member at [@OpenDevUFCG](https://github.com/OpenDevUFCG)
+
+📫 Reach me:
+
+![GitHub Followers](https://img.shields.io/github/followers/beatrizadm?label=Follow&style=social)
+[<img src = "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizadm/" height = "22" title = "LinkedIn" />](https://www.linkedin.com/in/beatrizadm/)
+
+
 
 <!--
 **beatrizadm/beatrizadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
