@@ -6,8 +6,6 @@
 
 🎲 Currently learning and working with Data Science
 
-👯 Core team member at [@OpenDevUFCG](https://github.com/OpenDevUFCG)
-
 📫 Reach me:
 <!--
 ![GitHub Followers](https://img.shields.io/github/followers/beatrizadm?label=Follow&style=social)
