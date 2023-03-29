@@ -4,7 +4,14 @@
 
 🔍 Always curious and building things, available to help and learn together
 
-🎲 Currently learning and working with Data Science
+🎲 Working as a Data Engineer and learning all the time!
+
+☁️ Cloud Certified:
+
+[<img src = "https://github.com/beatrizadm/beatrizadm/assets/dp-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure Data Fundamentals (DP-900)" />](https://www.credly.com/badges/bab2bfae-9683-4437-962d-fdb3a63ed8a8)
+[<img src = "https://github.com/beatrizadm/beatrizadm/assets/ai-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure AI Fundamentals (AI-900)" />](https://www.credly.com/badges/35744bfc-ac65-4f14-bbfc-4f096b1eefc6)
+[<img src = "https://github.com/beatrizadm/beatrizadm/assets/az-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure Fundamentals (AZ-900)" />](https://www.credly.com/badges/0fc98a2e-1169-45bb-8a59-0b5e84218f2f)
+
 
 📫 Reach me:
 <!--
