@@ -1,5 +1,6 @@
 ### Hi there <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
+
 <!--🕵️‍ -->
 
 🔍 Always curious and building things, available to help and learn together
@@ -7,6 +8,9 @@
 🎲 Working as a Data Engineer and learning all the time!
 
 ☁️ Cloud Certified:
+
+<!-- Faz com que todos os link do arquivo abram em uma nova aba -->
+<base target="_blank">
 
 [<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/dp-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure Data Fundamentals (DP-900)" />](https://www.credly.com/badges/bab2bfae-9683-4437-962d-fdb3a63ed8a8)
 [<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/ai-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure AI Fundamentals (AI-900)" />](https://www.credly.com/badges/35744bfc-ac65-4f14-bbfc-4f096b1eefc6)
