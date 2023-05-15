@@ -5,7 +5,7 @@
 
 🔍 Always curious and building things, available to help and learn together
 
-🎲 Working as a Data Engineer and learning all the time!
+🎲 Working as a Data Engineer
 
 ☁️ Cloud Certified:
 
