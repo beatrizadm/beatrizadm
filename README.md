@@ -9,10 +9,9 @@
 
 ☁️ Cloud Certified:
 
-[<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/dp-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure Data Fundamentals (DP-900)" />](https://www.credly.com/badges/bab2bfae-9683-4437-962d-fdb3a63ed8a8)
-[<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/ai-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure AI Fundamentals (AI-900)" />](https://www.credly.com/badges/35744bfc-ac65-4f14-bbfc-4f096b1eefc6)
-[<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/az-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure Fundamentals (AZ-900)" />](https://www.credly.com/badges/0fc98a2e-1169-45bb-8a59-0b5e84218f2f)
-[<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/sc-900.png?raw=true" height = "130" title = "Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)" />](https://www.credly.com/badges/a948dd2b-7ba1-491e-8f08-17bb210550bf)
+ AWS | Azure
+--- | -----  
+ [<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/clf-c01.png?raw=true" height = "130" title = "AWS Certified Cloud Practitioner" />](https://www.credly.com/badges/e968b290-e63b-47b2-8bfe-118928fefd6a) | [<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/dp-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure Data Fundamentals (DP-900)" />](https://www.credly.com/badges/bab2bfae-9683-4437-962d-fdb3a63ed8a8)[<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/ai-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure AI Fundamentals (AI-900)" />](https://www.credly.com/badges/35744bfc-ac65-4f14-bbfc-4f096b1eefc6)[<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/az-900.png?raw=true" height = "130" title = "Microsoft Certified: Azure Fundamentals (AZ-900)" />](https://www.credly.com/badges/0fc98a2e-1169-45bb-8a59-0b5e84218f2f)[<img src = "https://github.com/beatrizadm/beatrizadm/blob/main/assets/sc-900.png?raw=true" height = "130" title = "Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)" />](https://www.credly.com/badges/a948dd2b-7ba1-491e-8f08-17bb210550bf)
 
 📫 Reach me:
 <!--
